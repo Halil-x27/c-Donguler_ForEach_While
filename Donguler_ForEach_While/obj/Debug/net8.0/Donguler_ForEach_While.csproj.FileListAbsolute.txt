@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\bin\Debug\net8.0\Donguler_ForEach_While.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\bin\Debug\net8.0\Donguler_ForEach_While.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\bin\Debug\net8.0\Donguler_ForEach_While.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\bin\Debug\net8.0\Donguler_ForEach_While.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\bin\Debug\net8.0\Donguler_ForEach_While.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\obj\Debug\net8.0\Donguler_ForEach_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\obj\Debug\net8.0\Donguler_ForEach_While.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\obj\Debug\net8.0\Donguler_ForEach_While.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\obj\Debug\net8.0\Donguler_ForEach_While.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\obj\Debug\net8.0\Donguler_ForEach_While.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\obj\Debug\net8.0\refint\Donguler_ForEach_While.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\obj\Debug\net8.0\Donguler_ForEach_While.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\obj\Debug\net8.0\Donguler_ForEach_While.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Donguler_ForEach_While\obj\Debug\net8.0\ref\Donguler_ForEach_While.dll
